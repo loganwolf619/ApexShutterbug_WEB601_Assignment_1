@@ -54,3 +54,6 @@
 
 
 *This Framework is just concept and the template for desiging this webisite is taken from bootstrap site, where they provide editable template to be implemented on the website. For the first assignemnt I provided the template and the idea that I would be using in the development of the project. It is going to provide the necessary coding and information for the development of the project. However, I will be using those concepts to ensure that that the devlopment of **Apex ShutterBug** website provides the user with necessary information*
+
+
+Notes: This website is basically based on design, illustattion, and photography. Different designs, illusattions, and photos are collected and collased together to be shown through this website. This website can play a significant role in demonstating diffent options to grab diffent images. New user can sign up whereas returning users can sign in. Users are benefitted to download images. 

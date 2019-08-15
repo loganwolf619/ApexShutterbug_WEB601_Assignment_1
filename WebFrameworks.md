@@ -29,6 +29,6 @@
 
 ## Sign Up ##
 
-![Framework - 2.1](Framework.SignUpPage.PNG)
+![Framework - 2.1](Framework.Signup.PNG)
 
 

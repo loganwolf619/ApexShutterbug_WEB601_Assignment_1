@@ -26,7 +26,7 @@
 
 ![Framework - 1.1](Framework.Footer.PNG)
 
-
+git 
 ## Sign Up & Sign In ##
 
 *This Framework in included with the sign up page. It is provided with the page where the user will sign up or register if the user wants to download images*

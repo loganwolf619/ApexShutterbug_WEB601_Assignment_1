@@ -27,12 +27,26 @@
 ![Framework - 1.1](Framework.Footer.PNG)
 
 
-## Sign Up ##
+## Sign Up & Sign In ##
 
 *This Framework in included with the sign up page. It is provided with the page where the user will sign up or register if the user wants to download images*
 ![Framework - 2.1](Framework.Signup.PNG)
+
+*This framework is included with sign in page for the returning users to log in*
+![Framework - 2.2](Framework.Signin.PNG)
 
 ## Portfolio ##
 *This Framework in included with the images provided for the website, showing the puposes and the goal settings for the webiste. This portfolio will conatin the list of images that might be included for the webiste.However, it will be provided with subcategory that will determine the types of photography shot.*
 
 ![Framework - 3.1](Framework.Portfolio.PNG)
+
+## About Us ##
+*This framework is provided with the information regarding the webiste and the company*
+
+![Framework - 4.1](Framework.AboutUs.PNG)
+
+## Contact Us ##
+
+*This framework will provide with the conttact details and the ways to contact with the owner of the webiste. It also shows the location of the company and the telehone number and email address to contact the owner*
+
+![Framework - 5.1](Framework.ContactUs.PNG)

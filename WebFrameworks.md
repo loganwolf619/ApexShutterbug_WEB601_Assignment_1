@@ -50,3 +50,7 @@
 *This framework will provide with the conttact details and the ways to contact with the owner of the webiste. It also shows the location of the company and the telehone number and email address to contact the owner*
 
 ![Framework - 5.1](Framework.ContactUs.PNG)
+
+
+
+*This Framework is just concept and the template for desiging this webisite is taken from bootstrap site, where they provide editable template to be implemented on the website. For the first assignemnt I provided the template and the idea that I would be using in the development of the project. It is going to provide the necessary coding and information for the development of the project. However, I will be using those concepts to ensure that that the devlopment of **Apex ShutterBug** website provides the user with necessary information*

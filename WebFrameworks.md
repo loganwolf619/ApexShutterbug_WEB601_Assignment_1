@@ -29,6 +29,10 @@
 
 ## Sign Up ##
 
+*This Framework in included with the sign up page. It is provided with the page where the user will sign up or register if the user wants to download images*
 ![Framework - 2.1](Framework.Signup.PNG)
 
+## Portfolio ##
+*This Framework in included with the images provided for the website, showing the puposes and the goal settings for the webiste. This portfolio will conatin the list of images that might be included for the webiste.However, it will be provided with subcategory that will determine the types of photography shot.*
 
+![Framework - 3.1](Framework.Portfolio.PNG)
